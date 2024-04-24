@@ -10,7 +10,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("Images/ashim-d-silva-pGcqw1ARGyg-unsplash.jpg");
+  background-image: url(second.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
